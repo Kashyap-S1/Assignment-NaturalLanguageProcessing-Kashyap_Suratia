@@ -1,8 +1,8 @@
-# Unit 12 - Tales from the Crypto:
+ales from the Crypto:
 ## 1. Sentiment Analysis
-### Use the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
+### Used the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
 
-### Use descriptive statistics to answer the following questions:
+### Used descriptive statistics to answer the following questions:
 
 ## 1. Which coin had the highest mean positive score?
 ## 2. Which coin had the highest negative score?
