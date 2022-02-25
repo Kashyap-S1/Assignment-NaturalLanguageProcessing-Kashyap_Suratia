@@ -4,6 +4,6 @@ Applied natural language processing to understand the sentiment in the latest ne
 
 Completed the following tasks:
 
-Sentiment Analysis.
-Natural Language Processing.( NLTK , Ngrams etc )
-Named Entity Recognition.
+1) Sentiment Analysis.
+2) Natural Language Processing.( NLTK , Ngrams, wordcloud etc ).
+3) Named Entity Recognition.
